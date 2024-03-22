@@ -34,8 +34,8 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/express-logo-E9DA5D0AF7-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhajp4323&show_icons=true&locale=en&layout=compact" alt="AjmalOP" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahal-sha&show_icons=true&locale=en&layout=compact" alt="SahalCP" /></p>
 <br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=minhajp4323&show_icons=true&locale=en" alt="AjmalOP" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sahal-sha&show_icons=true&locale=en" alt="SahalCP" /></p>
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhajp4323&" alt="AjmalOP" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahal-sha&" alt="SahalCP" /></p>
