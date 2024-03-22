@@ -1,30 +1,29 @@
-<h1 align="center">Hi 👋, I'm Minhaj P</h1>
+<h1 align="center">Hi 👋, I'm Sahal C P</h1>
 <h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | Node| MongoDb | Express </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhajp4323&label=Profile%20views&color=0e75b6&style=flat" alt="MinhajP" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahal-sha&label=Profile%20views&color=0e75b6&style=flat" alt="SahalCP" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/minhajp4323" target="blank"><img src="https://img.shields.io/twitter/follow/Minhaj P?logo=linkedin&style=for-the-badge" alt="MinhajP" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sahalsha/" target="blank"><img src="https://img.shields.io/twitter/follow/Sahal C P?logo=linkedin&style=for-the-badge" alt="SahalCP" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://minhajp4323.github.io/e-commerse/) 
+- 🔭 I’m currently working on [E-commerce website](https://e-commerce-ten-rose.vercel.app/) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/minhajp4323]
+- 👨‍💻 All of my projects are available at [https://github.com/sahal-sha]
 
-- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , MongoDB, NODE , EXPRESS , ADO.Net , Tech , Computer Languages
+- 💬 Ask me about  HTML , CSS , BOOTSTRAP , JS , REACT , REDUX  , MongoDB, NODE , EXPRESS , Tech , Computer Languages
 
-- 📫 How to reach me  [minhajp4323@gmail.com]
+- 📫 How to reach me  [msahal2323@gmail.com]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://codepen.io/AjmalOP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajmalop" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/ajmalop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ajmalop" height="30" width="40" /></a> -->
-<a href="https://twitter.com/minhaj_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/minhajp4323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23369723/minhaj-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/minhajp4323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.facebook.com/minhaj.perinkadakkat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://www.instagram.com/minhaj_bin_koya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhajp" height="30" width="40" /></a>
-<a href="https://leetcode.com/Minhajp4323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhajp" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/sahalsha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SahalCP" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23727767/sahal-sha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="SahalCP" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/sahal-sha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="SahalCP" height="30" width="40" /></a>
+<a href="https://www.instagram.com/m___sahal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SahalCP" height="30" width="40" /></a>
+<a href="https://leetcode.com/sahalsha2323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SahalCP" height="30" width="40" /></a>
 <!-- <a href="https://discord.gg/ajmal_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajmalop" height="30" width="40" /></a> -->
 </p>
 
